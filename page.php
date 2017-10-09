@@ -122,7 +122,7 @@ ADD NEW IMAGE
 </div>
 
 <div class="ajax-load text-center" style="display:none">
-    <p><img src="http://demo.itsolutionstuff.com/plugin/loader.gif">Loading More img</p>
+    <p><img src="images/loader.gif">Loading More img</p>
 </div>
 
 </div>
@@ -226,7 +226,7 @@ ADD NEW IMAGE
 
 
 
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
 <script type="text/javascript" src="js/popup.js"></script>
 <script type="text/javascript" src="js/javascript.js"></script>
 <script type="text/javascript" src="js/bootstrap-filestyle.min.js"> </script>
